@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+form button {
+    text-decoration-color: red;
+}
+
+.run-process {
+    text-align: left;
+}
+
+.run-button{
+    display: inline-block;
+}
